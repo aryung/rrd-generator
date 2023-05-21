@@ -1,0 +1,12 @@
+.idea
+node_modules
+dist
+tmp
+images
+*.png
+logs/*.json
+logs/*.log
+misc
+
+version.txt
+ngrok.log

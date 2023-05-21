@@ -1,0 +1,29 @@
+{
+  "files": [
+    "./src/**/*.cjs/",
+    "./__tests__/**/*.js/",
+    "app.cjs"
+  ],
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "always",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "no-multiple-empty-lines": [
+    "error",
+    {
+      "max": 2
+    }
+  ]
+}
